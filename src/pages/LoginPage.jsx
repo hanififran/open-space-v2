@@ -33,7 +33,7 @@ function LoginPage() {
         <p>
           Don&apos;t have an account?
           {' '}
-          <Link to="/register">Register</Link>
+          <Link to="/register">Registers</Link>
         </p>
       </article>
     </section>
